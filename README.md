@@ -62,3 +62,11 @@
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/heinz-martin/
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cgncvk&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cgncvk&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cgncvk&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cgncvk&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cgncvk&theme=github)
+
+
