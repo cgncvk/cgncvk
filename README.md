@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this profile is under construction. 👋
 
 
 **cgncvk/cgncvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
