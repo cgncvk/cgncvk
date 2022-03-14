@@ -1,13 +1,23 @@
 ### Hi there, this profile is under construction. 👋
 
-- 🔭 I’m currently working on neurotech
-- 🌱 I’m currently learning data analysis
+- 🔭 I’m currently working on <b>neurotech</b>
+- 🌱 I’m currently learning <b>data analysis</b>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about neuroengineering
-- 📫 How to reach me: 
+- 💬 Ask me about <b>neuroengineering</b>
 
-<b>Favourites</b>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cgncvk&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cgncvk&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cgncvk&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cgncvk&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cgncvk&theme=github)
+
+
+
+
+### Some of Favourites
 
 📋 Languages
 
@@ -62,12 +72,4 @@
 Servers
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cgncvk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cgncvk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cgncvk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cgncvk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cgncvk&theme=github)
-
 
