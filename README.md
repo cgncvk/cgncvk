@@ -7,7 +7,7 @@
 - 💬 Ask me about neuroengineering
 - 📫 How to reach me: 
 
-Favourites
+<center>Favourites</center>
 
 📋 Languages
 
